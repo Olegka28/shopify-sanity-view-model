@@ -4,7 +4,8 @@
   <br/>
   Gatsby Shopify
 </h1>
-## 💎 Features
+
+### 💎 Features
 
 - Cart
 - Product grid
